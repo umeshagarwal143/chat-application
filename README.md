@@ -1,3 +1,10 @@
+# Chat-Application
+ This application allows developers or people to commmunicate in different communities. 
+
+# Netlify Link
+This link provide you to access the Output of the above project code in real Time Environment.
+Link :- https://wonderful-alfajores-b9fe8e.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
